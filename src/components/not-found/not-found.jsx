@@ -10,7 +10,7 @@ const NotFound = ()=> {
         <div className="not-found">
             <h1> 🙁 OOPS</h1> 
             <p>Sorry, the page you are looking for does not exist.</p> 
-            { <p>{error.statusText || error.message || "An unexpected error occurred."}</p> }
+            {/* { <p>{error.statusText || error.message || "An unexpected error occurred."}</p> } */}
         </div>
     )
 }
