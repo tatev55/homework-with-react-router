@@ -1,0 +1,14 @@
+.recipe-details{
+    width: 90%;
+    height: auto;
+    margin: 50px auto;
+    background-color: antiquewhite;
+    padding: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.recipe-image{
+    width: 550px;
+    height: 450px;
+}

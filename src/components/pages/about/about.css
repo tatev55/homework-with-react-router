@@ -1,0 +1,32 @@
+.about-container{
+    width: 90%;
+    height: auto;
+    background-color: #f7f4f3;
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.title-about{
+    font-size: 30px;
+    color: #B68271;
+
+}
+
+.in-about-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-image, .about-text{
+    width: 48%;
+    height: 90%;
+}
+
+.text{
+    font-size: 18px;
+    font-family: monospace;
+}
+

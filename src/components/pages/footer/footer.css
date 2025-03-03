@@ -1,0 +1,18 @@
+.footer-container{
+    width: 90%;
+    height: 250px;
+    background-color: #baa59e;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px auto;
+    text-align: center;
+    color: #615A56;
+}
+
+.footer-text{
+    width: 350px;
+    height: 100px;
+    text-align: center;
+}
